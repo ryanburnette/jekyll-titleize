@@ -24,6 +24,6 @@ gems: ['jekyll-titleize']
 
 Place `jekyll-titleize.rb` into your `_plugins` directory.
 
-### License
+## License
 
 Apache2
