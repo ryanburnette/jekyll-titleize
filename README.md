@@ -2,6 +2,12 @@
 
 [Titleize](https://github.com/granth/titleize) as a Liquid Filter in [Jekyll](http://jekyllrb.com).
 
+Titleize like a beast.
+
+```liquid
+{{ page.title | titleize }}
+```
+
 ## Installation
 
 ### Gem
